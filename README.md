@@ -21,5 +21,9 @@ See the system specific detailed instructions below.
 Don't panic if you couldn't install something! We will help you to finish it in
 the Camp!
 
+## Schedule
+
+- [Day 1: Introduction to Web development basics](web-development-basics.md)
+
 ## License
 All rights reserved (C) 2018 Green Fox Academy Kft. [greenfoxacademy.com](http://greenfoxacademy.com)
