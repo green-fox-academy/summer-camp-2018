@@ -9,7 +9,7 @@ Routing binds the path of the HTTP request with the Controller, e.g. it tells th
 Open up `config/routes.rb` and add the following line before `end`:
 
 ```ruby
-    resources 'posts'
+resources 'posts'
 ```
 
 So the whole file should look similar to this:
@@ -138,7 +138,7 @@ Our database is created and now we can use the Model to save the Post. We're cha
     end
 ```
 
-It's pretty straightforward, we're creating a new `Post`, setting the `title` and `content`, then we're saving it. Everything else is handled by Rails in the background.
+We're creating a new `Post`, setting the `title` and `content`, then we're saving it. Everything else is handled by Rails in the background.
 
 I've also added a `redirect_to` function call at the end of the `create` function to redirect the user to the `show` page after saving the Post. But we don't have that page just yet; we have to create it first.
 
