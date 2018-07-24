@@ -88,7 +88,7 @@ end
 
 A `class` is basically just a bunch of methods and variables grouped together.
 
-Finally, let's tell Rails that this is our home page. Open `/config/router.rb` and add the following line to the middle of the file.
+Finally, let's tell Rails that this is our home page. Open `/config/routes.rb` and add the following line to the middle of the file.
 
 ```ruby
 root 'home#index'
@@ -100,7 +100,7 @@ Now if you refresh your page in the browser you should see your own content.
 
 ## View: HTML with benefits
 
-You probably noticed that the view files have `.html.erb` extension, which is kind of strange at first. These are generally HTML files, as the name suggests, but you can also include Ruby code in them.
+You probably noticed that the view files have `.html.erb` extension, which is kind of strange at first. These are generally HTML files, as the name suggests, but you can also include Ruby code in them. (`.erb` stands for Embedded Ruby)
 
 Try something like this in `index.html.erb`:
 
@@ -119,9 +119,9 @@ Instead, you should use the Controller.
 Let's change the `HomeController`:
 
 ```ruby
-    def index
-        @result = 2 + 3
-    end
+def index
+    @result = 2 + 3
+end
 ```
 
 And change the view accordingly:
@@ -132,6 +132,6 @@ And change the view accordingly:
 </p>
 ```
 
-The at sign (`@`) before the variable `result` means that the variable should be accessible outside of the function; therefore, it is accessible from the view as well.
+The at sign (`@`) before the variable `result` means that the variable is accessible outside of the function; therefore, it is accessible from the view as well.
 
-This is the common way of splitting application code: do every calculation is the controller and use variables to pass data to the view.
+This is the common way of splitting application code: do every calculation in the controller and use variables to pass data to the view.

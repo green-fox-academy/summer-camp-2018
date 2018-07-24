@@ -123,7 +123,7 @@ Open up `first.rb` in VS Code.
 Type the following lines:
 
 ```ruby
-puts "What's you name?"
+puts "What's your name?"
 name = gets
 
 puts "Nice to meet you, " + name
@@ -142,6 +142,12 @@ You'll see that this program asks for your name, you can type in your name, and 
 Now change the program to ask for the user's `first_name` and `last_name` separately. (Yes, you can use the underscore (`_`) character in a variable name).
 
 The program should print the first and last name separated by a space character.
+
+Note that `gets` will put an extra new line character at the end of your Strings. You can use the `chomp` function to get rid of it. E.g.
+
+```ruby
+first_name = first_name.chomp
+```
 
 ## My first calculator
 
@@ -172,7 +178,7 @@ The program now should ask for 4 numbers, a, b, c and d, and calculate a + b and
 
 ### Let's do more complicated math
 
-Instead of simply calculating the sum, let's calculate the square root of (a + b) * 2, and the square root of (c + d) * 2. Note that you have to use parentheses (`(`) to make sure the sum is computed before the multiplication.
+Extend the application to calculate the square root of (a + b) * 2, and the square root of (c + d) * 2. Note that you have to use parentheses (`(`) to make sure the sum is computed before the multiplication.
 
 Notice that **you had to change two separate lines**, because you copied the calculation over.
 
