@@ -23,34 +23,70 @@ the Camp!
 
 ## Schedule
 
-- [Day 1: Introduction to Web development basics](web-development-basics.md)
+- Day 1: [Introduction to Web development basics](web-development-basics.md)
+- Day 2: [Blog project](blog-project.md)
+- Day 3: [Getting started with Ruby](ruby-getting-started.md)
+- Day 3: [Getting started with Rails](rails-getting-started.md)
+- Day 3: [Start creating your own blog engine with Rails](rails-my-blog.md)
+- Day 4: [Host your application on Heroku](hosting.md)
+
+### Day 1
+
+| Time          | Event                                                                        |
+| :------------ | :--------------------------------------------------------------------------- |
+| 09:00 - 09:30 | Introduction                                                                 |
+| 09:30 - 10:00 | Check-in                                                                     |
+| 10:00 - 10:30 | Icebreaker activity                                                          |
+| 10:30 - 12:00 | Presentation about HTML and CSS                                              |
+| 12:00 - 13:00 | [Introduction to Web development basics](web-development-basics.md) workshop |
+| 13:00 - 14:00 | Lunch break                                                                  |
+| 14:00 - 17:00 | [Introduction to Web development basics](web-development-basics.md) workshop |
+| 17:00 - 17:30 | Check-out                                                                    |
+| 17:30 - 18:00 | Partner presentation: Jan Bureš (Mallgroup) - Agile development              |
+
+### Day 2
+
+| Time          | Event                                                                     |
+| :------------ | :------------------------------------------------------------------------ |
+| 09:00 - 09:30 | Check-in                                                                  |
+| 09:30 - 10:00 | Recap of day 1                                                            |
+| 10:00 - 10:30 | Introducing the blog project                                              |
+| 10:30 - 13:00 | [Blog project](blog-project.md) workshop                                  |
+| 13:00 - 14:00 | Lunch break                                                               |
+| 14:00 - 17:00 | [Blog project](blog-project.md) workshop                                  |
+| 17:00 - 17:30 | Check-out                                                                 |
+| 17:30 - 18:00 | Partner presentation: Lukáš Urban (Nestlé) - Bit about programming        |
+| 18:00 - 18:30 | Partner presentation: Pavel Moravec (Nestlé)                              |
+| 18:30 - 19:00 | Partner presentation: Jan Liška (Mallgroup) - 20 front-end best practises |
 
 ### Day 3
 
-| Time             | Event                                                                       |
-|:-----------------|:----------------------------------------------------------------------------|
-| 9:00 - 9:30am    | Check in                                                                    |
-| 9:30 - 10:00am   | Recap of day 1 and 2                                                        |
-| 10:00 - 10:30am  | Presentation about the backend application logic and terminal usage         |
-| 10:30am - 1:00pm | [Getting started with Ruby](ruby-getting-started.md)                        |
-| 1:00 - 2:00pm    | Lunch break                                                                 |
-| 2:00 - 3:00pm    | Presentation on frameworks and Rails                                        |
-| 3:00 - 4:00pm    | [Getting started with Rails](rails-getting-started.md)                      |
-| 4:00 - 5:00pm    | [Start creating your own blog engine with Rails](rails-my-blog.md)          |
-| 5:00 - 6:00pm    | Combine the blog engine you created with the frontend you created yesterday |
+| Time          | Event                                                                       |
+| :------------ | :-------------------------------------------------------------------------- |
+| 09:00 - 09:30 | Check-in                                                                    |
+| 09:30 - 10:00 | Recap of day 1 and 2                                                        |
+| 10:00 - 10:30 | Presentation about the backend application logic and terminal usage         |
+| 10:30 - 13:00 | [Getting started with Ruby](ruby-getting-started.md)                        |
+| 13:00 - 14:00 | Lunch break                                                                 |
+| 14:00 - 15:00 | Presentation on frameworks and Rails                                        |
+| 15:00 - 16:00 | [Getting started with Rails](rails-getting-started.md)                      |
+| 16:00 - 17:00 | [Start creating your own blog engine with Rails](rails-my-blog.md)          |
+| 17:00 - 17:30 | Combine the blog engine you created with the frontend you created yesterday |
+| 17:30 - 18:30 | Check-out                                                                   |
 
 ### Day 4
 
-| Time             | Event                                         |
-|:-----------------|:----------------------------------------------|
-| 9:00 - 9:30am    | Check in                                      |
-| 9:30 - 10:00am   | Recap of day 3                                |
-| 10:00 - 10:30am  | Presentation about version control and git    |
-| 10:30am - 1:00pm | Continue improving your blog                  |
-| 1:00 - 2:00pm    | Lunch break                                   |
-| 2:00 - 3:00pm    | Presentation on hosting and deployment        |
-| 3:00 - 5:00pm    | [Host your application on Heroku](hosting.md) |
-| 5:00 - 6:00pm    | Check out                                     |
+| Time          | Event                                         |
+| :------------ | :-------------------------------------------- |
+| 09:00 - 09:30 | Check-in                                      |
+| 09:30 - 10:00 | Recap of day 3                                |
+| 10:00 - 10:30 | Presentation about version control and git    |
+| 10:30 - 13:00 | Continue improving your blog                  |
+| 13:00 - 14:00 | Lunch break                                   |
+| 14:00 - 15:00 | Presentation on hosting and deployment        |
+| 15:00 - 17:30 | [Host your application on Heroku](hosting.md) |
+| 17:30 - 18:00 | Check-out                                     |
 
 ## License
+
 All rights reserved (C) 2018 Green Fox Academy Kft. [greenfoxacademy.com](http://greenfoxacademy.com)
