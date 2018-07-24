@@ -34,7 +34,7 @@ Extract the downloaded zip file and copy `Visual Studio Code.app` to
 
 ## Google Chrome
 
-Go to the [Google Chrome's wesite](https://www.google.com/chrome/) and hit
+Go to the [Google Chrome's website](https://www.google.com/chrome/) and hit
 "Download Chrome".
 
 Open the downloaded `.dmg` file and drag & drop Chrome to the Applications
