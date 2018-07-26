@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Exercise 07</title>
+  <style>
+    form {
+      width: 500px;
+    }
+  </style>
+</head>
+<body>
+  <form>
+    <fieldset>
+      <legend>Interesting application form 🙄</legend>
+      <fieldset>
+        <legend><label for="name">What is your name?</label></legend>
+        <input type="text" name="" id="name">
+      </fieldset>
+      <fieldset>
+        <legend>What is your favorite color?</legend>
+        <div>
+          <input type="checkbox" name="favorite-color" value="red" id="red">
+          <label for="red">Red</label>
+        </div>
+        <div>
+          <input type="checkbox" name="favorite-color" value="green" id="green">
+          <label for="green">Green</label>
+        </div>
+        <div>
+          <input type="checkbox" name="favorite-color" value="blue" id="blue">
+          <label for="blue">Blue</label>
+        </div>
+        <div>
+          <input type="checkbox" id="other" name="favorite-color" value="other">
+          <label for="other">Other</label>
+          <input type="text" id="otherValue" name="other">
+          </div>
+      </fieldset>
+      <fieldset>
+        <legend>Would you like to become a developer?</legend>
+        <div>
+          <input type="radio" id="yes" name="developer" />
+          <label for="yes">Yes</label>
+        </div>
+        <div>
+          <input type="radio" id="ano" name="developer" checked />
+          <label for="ano">Ano</label>
+        </div>
+        <div>
+          <input type="radio" id="igen" name="developer" />
+          <label for="igen">Igen</label>
+        </div>
+        <div>
+            <input type="radio" id="shi" name="developer" />
+            <label for="shi">是</label>
+          </div>
+      </fieldset>
+      <fieldset>
+        <legend>
+          <label for="yourself">
+            Why would you like to become a developer?
+          </label>
+        </legend>
+        <textarea name="yourself" id="yourself" cols="30" rows="10"></textarea>
+      </fieldset>
+      <input type="submit" />
+    </fieldset>
+  </form>
+</body>
+</html>

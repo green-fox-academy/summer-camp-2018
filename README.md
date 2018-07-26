@@ -24,6 +24,7 @@ the Camp!
 ## Schedule
 
 - Day 1: [Introduction to Web development basics](web-development-basics.md)
+  - [Solutions for day 1](solutions/day-01)
 - Day 2: [Blog project](blog-project.md)
 - Day 3: [Getting started with Ruby](ruby-getting-started.md)
 - Day 3: [Getting started with Rails](rails-getting-started.md)
