@@ -29,6 +29,7 @@ the Camp!
 - Day 3: [Getting started with Rails](rails-getting-started.md)
 - Day 3: [Start creating your own blog engine with Rails](rails-my-blog.md)
 - Day 4: [Host your application on Heroku](hosting.md)
+- [The notes](notes.md)
 
 ### Day 1
 
