@@ -33,6 +33,16 @@ selector {
 - You can generate the basic structure of an HTML file with `html:5` in VS Code
 - You should write your styles in the `style` tag which should be in the `head`
 - You should write the visible content in the `body` tag
+- Form tags
+  - `form`
+  - `input`
+    - `type="text"`
+    - `type="password"`
+    - `type="checkbox"`
+    - `type="radio"`
+  - `textarea`
+  - `button`
+    - `type="submit"`
 
 ## Day 2
 
