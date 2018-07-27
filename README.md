@@ -26,6 +26,7 @@ the Camp!
 - Day 1: [Introduction to Web development basics](web-development-basics.md)
   - [Solutions for day 1](solutions/day-01)
 - Day 2: [Blog project](blog-project.md)
+  - [Web basics presentation](https://docs.google.com/presentation/d/1BRkqewW8a5JQGnCv3ynbxhgr0BjwSuk3v7YmJLQIAkE/edit?usp=sharing)
 - Day 3: [Getting started with Ruby](ruby-getting-started.md)
 - Day 3: [Getting started with Rails](rails-getting-started.md)
 - Day 3: [Start creating your own blog engine with Rails](rails-my-blog.md)
