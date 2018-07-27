@@ -32,6 +32,7 @@ the Camp!
 - Day 3: [Start creating your own blog engine with Rails](rails-my-blog.md)
 - Day 4: [Host your application on Heroku](hosting.md)
 - [The notes](notes.md)
+- [Extra UI exercises](extra-ui-exercises.md)
 
 ### Day 1
 
