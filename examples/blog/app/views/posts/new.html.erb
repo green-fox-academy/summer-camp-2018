@@ -1,0 +1,7 @@
+<form method="post" action="/posts">
+    <input type="text" name="title">
+    <textarea name="content"></textarea>
+
+    <button type="submit">Save<button>
+    <input type="hidden" name="authenticity_token" value="<%= form_authenticity_token %>">
+</form>
