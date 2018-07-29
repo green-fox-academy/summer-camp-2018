@@ -84,12 +84,12 @@ the Camp!
 |:--------------|:----------------------------------------------------------------------------|
 | 09:00 - 09:30 | Check-in                                                                    |
 | 09:30 - 10:00 | Recap of day 3                                                              |
-| 10:00 - 10:30 | Presentation about version control and git                                  |
-| 10:30 - 13:00 | Combine the blog engine you created with the frontend you created yesterday |
+| 10:00 - 13:00 | Combine the blog engine you created with the frontend you created yesterday |
 | 13:00 - 14:00 | Lunch break                                                                 |
-| 14:00 - 15:00 | Presentation on hosting and deployment                                      |
-| 15:00 - 16:00 | [Host your application on Heroku](hosting.md)                               |
-| 16:00 - 17:00 | Where to go next?                                                           |
+| 14:00 - 14:30 | Presentation about version control and git                                  |
+| 14:30 - 15:00 | Presentation on hosting and deployment                                      |
+| 15:00 - 16:30 | [Host your application on Heroku](hosting.md)                               |
+| 16:30 - 17:00 | Where to go next?                                                           |
 | 17:00 - 17:30 | Demo                                                                        |
 | 17:30 - 18:00 | Check-out                                                                   |
 
