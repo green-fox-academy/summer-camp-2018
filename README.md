@@ -30,6 +30,7 @@ the Camp!
 - Day 3: [Getting started with Ruby](ruby-getting-started.md)
 - Day 3: [Getting started with Rails](rails-getting-started.md)
 - Day 3: [Start creating your own blog engine with Rails](rails-my-blog.md)
+- [Ruby on Rails presentation](https://docs.google.com/presentation/d/1IgKu3a15wBOF9VbUQISB-rm7cygfIR8Bl9tIutEQI2U/edit?usp=sharing)
 - Day 4: [Host your application on Heroku](hosting.md)
 - [The notes](notes.md)
 - [Extra UI exercises](extra-ui-exercises.md)
