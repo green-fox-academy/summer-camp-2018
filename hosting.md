@@ -30,6 +30,22 @@ s
 
 Use a unique app name, e.g. your name + my_blog. Choose Europe for the region. Click on the "Create new pipeline" button, and leave the default values. Finally click on the "Create app" button. Remember the name of the app; you'll need it later.
 
+## Login to Heroku
+
+Open a terminal in the folder of your Rails application and run the following commands.
+
+First you have to sign in, use your credentials:
+
+```bash
+heroku login
+```
+
+Then, you'll have to set up Heroku as a git remote:
+
+```bash
+heroku git:remote -a <your app name>
+```
+
 ## Set up the database
 
 Heroku supports PostgreSQL by default so we'll use that for this exercise.
@@ -114,21 +130,7 @@ If this runs without an error, you have set up your database in Heroku correctly
 
 Great, now you have an app and a database on Heroku. Now it's time to deploy your blog to Heroku.
 
-Open a terminal in the folder of your Rails application and run the following commands.
-
-First you have to sign in, use your credentials:
-
-```bash
-heroku login
-```
-
-Then, you'll have to set up Heroku as a git remote:
-
-```bash
-heroku git:remote -a <your app name>
-```
-
-Finally, you can deploy the application:
+You can deploy the application:
 
 ```bash
 git push heroku master
